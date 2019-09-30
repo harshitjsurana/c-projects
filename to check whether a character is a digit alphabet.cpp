@@ -11,7 +11,7 @@ int main()
         cout<<"You entered a alphabet:"<<ch;
         else
     if(ch>='0'&&ch<='9')
-        cout<<"You entered a number:"<<ch;
+        cins<<"You entered a number:"<<ch;
     else
         cout<<"You entered a character other than alphabet and number";
     return 0;
