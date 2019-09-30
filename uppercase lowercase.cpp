@@ -8,7 +8,7 @@ int main()
     char ch;
     cout << "Enter a character:";
     cin>>ch;
-    if(ch>=65&&ch<=100)
+    if(ch>=65&&ch<=90)
         cout<<"\n"<<"You entered a Uppercase character.";
     else  if(ch>=99&&ch<=122)
         cout<<"\n"<<"You entered a Lowercase character.";
