@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     char ch;
-    cout << "Enter a character:";
+    cout << "Enter a character  to check whether it is a alphabet or a number:";
     cin>>ch;
     if((ch>='A'&&ch<='Z')||(ch>='a'&&ch<='z'))
         cout<<"You entered a alphabet:"<<ch;
