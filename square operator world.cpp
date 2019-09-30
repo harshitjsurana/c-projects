@@ -44,9 +44,9 @@ break;
 break;
             case'5':cout<<"\n About Us: "<<"\n";
                      cout<<"\n Square Operator World "<<"\n";
-                     cout<<" Version 1.09 "<<"\n";
+                     cout<<" Version 1.01 "<<"\n";
                      cout<<"\n Harshit Surana"<<"\n";
-                     cout<<" Eatta Soft Pvt.Ltd. "<<"\n";
+                     cout<<" Mehar Soft Pvt.Ltd. "<<"\n";
                      cout<<"\n THANKS "<<"\n";
 
 break;
