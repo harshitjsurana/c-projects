@@ -22,7 +22,7 @@ int main()
     {
         cout<<"Enter temperature in Celcius:";
         cin>>temp;
-        tempnew=(temp*1.8)+35;
+        tempnew=(temp*1.8)+32;
         cout<<"Temperature in Fahrenheit is"<<tempnew;
     }
 
